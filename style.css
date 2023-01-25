@@ -1,0 +1,6 @@
+div {
+  width: 100%;
+  max-width: 200px;
+  height: 100vw;
+  border: 2px solid black;
+}

@@ -1,24 +1,8 @@
-section {
-    height: 80vh;
-    border: 1px solid black;
-}
-
-p {
-    color: blue;
-}
-
-.red {
-    color: red;
-}
-
-p.red {
-    color: purple;
-}
-
-#title{
+.nav__link {
     color: black;
 }
 
-.heading.red {
-    color: blue;
+.nav__link--active {
+    font-weight: bold;
+    color: green;
 }
